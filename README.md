@@ -1,3 +1,3 @@
 # CollectionViewLayoutPractice
 
-Goal: To develop a simple and intuitive structure for contents using UICollectionView and UICollectionViewCompositionalLayout.
+Goal: To develop a simple, intuitive view structure for displaying contents using UICollectionView and UICollectionViewCompositionalLayout.
